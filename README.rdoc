@@ -1,0 +1,22 @@
+= Win32::Office
+
+A library for generating MS Office 2010 documents from document templates.
+
+
+== Usage
+
+=== Installing the Gem
+
+  gem install win32-office
+
+
+== Author
+
+Thomas Volkmar Worm <mailto:tvw@s4r.de>
+
+
+== License
+
+Copyright (c) 2012 Thomas Volkmar Worm <mailto:tvw@s4r.de>
+
+Permission is hereby granted to nobody but me.

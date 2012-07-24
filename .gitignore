@@ -1,0 +1,6 @@
+*~
+.gem
+.bundle
+.rvmrc
+/pkg
+/rdoc
